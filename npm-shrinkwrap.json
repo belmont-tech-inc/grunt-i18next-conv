@@ -1,0 +1,40 @@
+{
+  "name": "grunt-i18next-conv",
+  "version": "0.1.5",
+  "dependencies": {
+    "i18next-conv": {
+      "version": "0.1.2",
+      "from": "i18next-conv@0.1.2",
+      "resolved": "https://registry.npmjs.org/i18next-conv/-/i18next-conv-0.1.2.tgz",
+      "dependencies": {
+        "node-gettext": {
+          "version": "0.2.14",
+          "from": "node-gettext@*",
+          "resolved": "https://registry.npmjs.org/node-gettext/-/node-gettext-0.2.14.tgz"
+        },
+        "commander": {
+          "version": "2.2.0",
+          "from": "commander@*",
+          "resolved": "https://registry.npmjs.org/commander/-/commander-2.2.0.tgz"
+        },
+        "colors": {
+          "version": "0.6.2",
+          "from": "colors@*",
+          "resolved": "https://registry.npmjs.org/colors/-/colors-0.6.2.tgz"
+        }
+      }
+    },
+    "iconv": {
+      "version": "2.1.2",
+      "from": "iconv@2.1.2",
+      "resolved": "https://registry.npmjs.org/iconv/-/iconv-2.1.2.tgz",
+      "dependencies": {
+        "nan": {
+          "version": "1.0.0",
+          "from": "nan@~1.0.0",
+          "resolved": "https://registry.npmjs.org/nan/-/nan-1.0.0.tgz"
+        }
+      }
+    }
+  }
+}
